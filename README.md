@@ -1,3 +1,4 @@
 # Non_Linear_Dynamics
-Contains Project Files
-Contains Code for Grassberger Procassia ALgorihtm implemented on a 2-D Henon Map.
+ This project is an attempt to implement the Grassberger-Procassia algorithm for a a 2-D Henon Map.
+ Grassberger-Procaccia Algorithm - http://www.scholarpedia.org/article/Grassberger-Procaccia_algorithm
+ 2-D Henon Map - https://en.wikipedia.org/wiki/H%C3%A9non_map
